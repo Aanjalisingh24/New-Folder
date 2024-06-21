@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+}
+#happy{
+    background-color: blue;
+    color: aliceblue;
+    background-image: url(https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/65532/happy-emoji-clipart-md.png);
+    height: 35px;
+    width:115px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+#image{
+    height: 350px;
+    width: 350px;
+}
+#both{
+    padding-left: 600px;
+}
+#heading{
+    color: brown;
+    padding-left: 670px;
+    height: 50px;
+}
